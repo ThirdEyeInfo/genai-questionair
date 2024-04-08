@@ -5,6 +5,7 @@
 - Navigate to genai-questionair progect (in step 1) from conda prompt and/by follow below commands
     * cd <basepath>/genai-questionair
     * conda create -n questionair python=3.8 -y
+    * conda activate questionair
     * pip install -r requirement.txt
     * python setup.py install
 - Create a file with name '.env' in genai-questionair folder
